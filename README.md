@@ -108,7 +108,7 @@ Here’s how the project comes together step by step:
 - Connect the frontend to the backend via REST API calls.
 
 ### **5. Deployment**
-- Use **Vite** for efficient frontend bundling and hot module replacement.
+- Use **aws** for efficient frontend bundling and hot module replacement.
 ---
 
 ## **💻 Getting Started**
@@ -166,6 +166,7 @@ Contributers: Prakhar Singh and Lakshya Tyagi
 
 ## **📜 License**
 This project is licensed under the Apache License.
+
 
 
 
