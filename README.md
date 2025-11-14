@@ -161,11 +161,12 @@ If you’re curious about the project or want to collaborate, feel free to conne
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/masoomprakhar)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakharsinghparkar)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-tyagi-086211233/)  
-
+Contributers: Prakhar Singh and Lakshya Tyagi
 ---
 
 ## **📜 License**
 This project is licensed under the Apache License.
+
 
 
 
