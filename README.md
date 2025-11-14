@@ -121,8 +121,8 @@ Here’s how the project comes together step by step:
 ### **Setup**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shubhupadhyay1/supply-chain-dashboard.git
-   cd supply-chain-dashboard
+   git clone https://github.com/masoomprakhar/supply-chain-optimizatonn
+   cd supply-chain-optimization
    ```
 
 2. Install dependencies:
@@ -166,5 +166,6 @@ If you’re curious about the project or want to collaborate, feel free to conne
 
 ## **📜 License**
 This project is licensed under the Apache License.
+
 
 
