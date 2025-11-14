@@ -111,48 +111,6 @@ Here’s how the project comes together step by step:
 - Use **aws** for efficient frontend bundling and hot module replacement.
 ---
 
-## **💻 Getting Started**
-
-### **Prerequisites**
-- Node.js
-- Python 3.8+
-- Pipenv or virtualenv for Python dependencies
-
-### **Setup**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/masoomprakhar/supply-chain-optimizatonn
-   cd supply-chain-optimization
-   ```
-
-2. Install dependencies:
-   - **Frontend**:
-     ```bash
-     npm install
-     ```
-   - **Backend**:
-     ```bash
-     pip install -r requirements.txt
-     ```
-
-3. Train the models:
-   ```bash
-   python backend/train.py
-   ```
-
-4. Start the backend server:
-   ```bash
-   uvicorn backend.app:app --reload
-   ```
-
-5. Start the frontend:
-   ```bash
-   npm run dev
-   ```
-
-6. Open the dashboard in your browser at `http://localhost:3000`.
-
----
 
 ## **Creator** 👨‍💻
 
@@ -163,6 +121,7 @@ If you’re curious about the project or want to collaborate, feel free to conne
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-tyagi-086211233/)  
 Contributers: Prakhar Singh and Lakshya Tyagi
 ---
+
 
 
 
