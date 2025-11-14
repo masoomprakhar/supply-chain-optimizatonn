@@ -164,8 +164,8 @@ If you’re curious about the project or want to collaborate, feel free to conne
 Contributers: Prakhar Singh and Lakshya Tyagi
 ---
 
-## **📜 License**
-This project is licensed under the Apache License.
+
+
 
 
 
